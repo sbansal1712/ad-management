@@ -6,7 +6,7 @@ mongoose.Promise = global.Promise;
 
 // Set up mongoose connection
 const mongoDB =
-  "mongodb+srv://shubham:10dulkar@cluster0.zyzm2.mongodb.net/ad-management:27017";
+  "mongodb+srv://shubham:10dulkar@cluster0.zyzm2.mongodb.net/ad-management";
 
 mongoose.connect(mongoDB, {
   useCreateIndex: true,

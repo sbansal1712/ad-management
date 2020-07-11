@@ -2,9 +2,9 @@ const mongoose = require("mongoose");
 
 const AdSchema = new mongoose.Schema(
   {
-    Name: "",
-    Description: "",
-    CPI: "",
+    title: { type: String },
+    description: { type: String },
+    CPI: { type: String },
   },
   { collection: "Mst_Ads" }
 );
