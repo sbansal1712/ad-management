@@ -1,4 +1,4 @@
-# node-js-getting-started
+# ad-managemet
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -9,7 +9,7 @@ This application supports the [Getting Started on Heroku with Node.js](https://d
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
+$ git clone https://github.com/sbansal1712/ad-management.git # or clone your own fork
 $ cd node-js-getting-started
 $ npm install
 $ npm start
@@ -24,6 +24,7 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
+
 or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)

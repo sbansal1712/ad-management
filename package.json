@@ -1,5 +1,5 @@
 {
-  "name": "node-js-getting-started",
+  "name": "ad-management",
   "version": "0.3.0",
   "description": "A sample Node.js app using Express 4",
   "engines": {
@@ -12,15 +12,21 @@
   },
   "dependencies": {
     "ejs": "^2.5.6",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "heroku": "^7.42.3",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.3",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
   },
   "devDependencies": {
     "got": "^11.3.0",
+    "nodemon": "^2.0.4",
     "tape": "^4.7.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/sbansal1712/ad-management.git"
   },
   "keywords": [
     "node",
