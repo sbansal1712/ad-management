@@ -7,5 +7,6 @@ const adController = require("../controllers/ad");
 
 router.get("/getAllAds", adController.getAllAds);
 router.post("/addNewAd", adController.addNewAd);
+router.get("/recordClicks", adController.recordClicks);
 
 module.exports = router;
