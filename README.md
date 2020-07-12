@@ -1,4 +1,4 @@
-# ad-managemet
+# ad-management
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
