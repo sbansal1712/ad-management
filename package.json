@@ -20,7 +20,7 @@
     "body-parser": "^1.19.0"
   },
   "devDependencies": {
-    "got": "^11.3.0",
+    "got": "^11.8.5",
     "nodemon": "^2.0.4",
     "tape": "^4.7.0"
   },
